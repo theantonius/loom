@@ -1,2 +1,4 @@
-# loom
-A hand loom laser cutter template
+# Open Source Laser Cut Loom
+
+This is a laser cutter template for a hand loom.
+
